@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "name": "information",
+      "name_tw": "房型資訊",
+      "detail": [
+        {
+          "name": "2BR",
+          "name_tw": "二房型",
+          "value": "3.25"
+        }
+      ]
+    },
+    {
+      "name": "structuralEngineering",
+      "name_tw": "結構體工程",
+      "detail": [
+        {
+          "name": "columnVolume",
+          "name_tw": "結構柱體積",
+          "value": "13.63"
+        },
+        {
+          "name": "beamVolume",
+          "name_tw": "結構梁體積",
+          "value": "16.90"
+        },
+        {
+          "name": "wallVolume",
+          "name_tw": "結構牆體積",
+          "value": "12.40"
+        },
+        {
+          "name": "floorVolume",
+          "name_tw": "結構板體積",
+          "value": "13.70"
+        },
+
+        {
+          "name": "floorEngineering",
+          "name_tw": "地坪工程",
+          "detail": [
+            {
+              "name": "floorArea",
+              "name_tw": "樓板面積",
+              "value": "83.49"
+            }
+          ]
+        },
+        {
+          "name": "ceilingEngineering",
+          "name_tw": "平頂工程",
+          "detail": [
+            {
+              "name": "ceilingArea",
+              "name_tw": "室內天花板面積",
+              "value": "71.26"
+            }
+          ]
+        },
+        {
+          "name": "innerWallEngineering",
+          "name_tw": "內牆工程",
+          "detail": [
+            {
+              "name": "innerWallArea",
+              "name_tw": "粉光內牆牆面總面積",
+              "value": "257.65"
+            },
+            {
+              "name": "partitionWallArea",
+              "name_tw": "隔間牆面面積",
+              "value": "73.32"
+            }
+          ]
+        },
+        {
+          "name": "externalWallEngineering",
+          "name_tw": "外牆工程",
+          "detail": [
+            {
+              "name": "exteriorWallArea",
+              "name_tw": "外牆面積",
+              "value": "161.61"
+            }
+          ]
+        },
+        {
+          "name": "windowDoorEngineering",
+          "name_tw": "門窗工程",
+          "detail": [
+            {
+              "name": "numberWindows",
+              "name_tw": "窗戶樘數",
+              "value": "9"
+            },
+            {
+              "name": "numberDoors",
+              "name_tw": "門樘數",
+              "value": "5"
+            }
+          ]
+        }
+      ]
+}
+
