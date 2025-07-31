@@ -70,6 +70,11 @@
               "name": "ceilingArea",
               "name_tw": "室內天花板面積",
               "value": "111.84"
+            },
+            {
+              "name": "ceilingPaintArea",
+              "name_tw": "室內天花油漆面積",
+              "value": "144.71"
             }
           ]
         },
