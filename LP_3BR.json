@@ -41,9 +41,24 @@
           "name_tw": "地坪工程",
           "detail": [
             {
-              "name": "floorArea",
-              "name_tw": "樓板面積",
-              "value": "99.50 "
+              "name": "totalFloorArea",
+              "name_tw": "總樓板面積",
+              "value": "98.89"
+            },
+            {
+              "name": "indoorDryArea",
+              "name_tw": "室內乾區面積",
+              "value": "82.47"
+            },
+            {
+              "name": "indoorWetArea",
+              "name_tw": "室內濕區面積",
+              "value": "10.74"
+            },
+            {
+              "name": "outdoorArea",
+              "name_tw": "室外陽台面積",
+              "value": "5.68"
             }
           ]
         },
